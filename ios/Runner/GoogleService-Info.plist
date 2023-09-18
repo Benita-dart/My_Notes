@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>808239914219-mkdq95tiefop2n4l7ctq5gi5vcn59in7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.808239914219-mkdq95tiefop2n4l7ctq5gi5vcn59in7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyATh0c6qllrWFSBDESZjFTcx0KoOiZ2Viw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>808239914219</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.360notes.mynotes</string>
+	<key>PROJECT_ID</key>
+	<string>alarm-3cc77</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alarm-3cc77.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:808239914219:ios:4efc2c86b145a4653c72ae</string>
+</dict>
+</plist>
